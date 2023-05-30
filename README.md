@@ -1,7 +1,7 @@
-# Asterisk Feature Requests
+# Asterisk Feature and Improvement Requests
 
-A place to submit feature requests for the Asterisk project. Contains no code.
+A place to submit feature and improvement requests for the Asterisk project. Contains no code.
 
-To submit a feature request create an issue, or comment on an existing one if someone has already created an issue with the feature request.
+To submit a feature or improvement request create an issue, or comment on an existing one if someone has already created an issue with the request.
 
-There is **NO** guarantee any feature requests here will be acted upon.
+There is **NO** guarantee any requests here will be acted upon.
